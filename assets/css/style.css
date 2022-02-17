@@ -534,6 +534,8 @@ section {
   -o-transition: ease-in-out 0.3s;
 }
 .services .icon-box .icon i {
+  margin-right: 5px;
+  margin-left: 5px;
   font-size: 36px;
   transition: 0.5s;
   position: relative;
